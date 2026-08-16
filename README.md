@@ -1,6 +1,6 @@
 # Hola, soy Leandro Giuliani 👋
 
-### Estudiante de Informática | Enfocado en Backend y Datos
+### Estudiante de Informática
 
 ## 🚀 Sobre mí
 - 🎓 Estudio la **Licenciatura en Informática** en la UNAHUR.
